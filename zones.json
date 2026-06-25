@@ -1,0 +1,8 @@
+{
+  "hr_zones": [{"min":0,"max":130},{"min":131,"max":162},{"min":163,"max":178},{"min":179,"max":194},{"min":195,"max":205}],
+  "hr_source": "MaxHeartRate",
+  "run_zones_mps": [{"min":0,"max":2.741},{"min":2.741,"max":3.184},{"min":3.184,"max":3.547},{"min":3.547,"max":3.789},{"min":3.789,"max":4.03},{"min":4.03,"max":5.2}],
+  "run_zone_source": "PerformancePredictions",
+  "sample_5k": "21:59",
+  "athlete": {"first_name":"Adam","weight_kg":77.1107,"city":"Saint Paul","state":"Minnesota","measurement":"Imperial"}
+}
